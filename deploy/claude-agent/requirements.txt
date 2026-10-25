@@ -1,0 +1,4 @@
+# Pinned exactly like ManufactureOperator: the SDK drives a bundled Claude Code CLI.
+claude-agent-sdk==0.2.165
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
